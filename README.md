@@ -1,85 +1,78 @@
-## Samuel Santos 👩🏻‍💻
+# 👋 Olá, eu sou o Samuel Santos
 
-**`Cientista de Dados`**
+💻 Cientista de Dados | 📊 Data Analyst | 🚀 Futuro Full Stack Developer  
 
-Eu me chamo Samuel Santos, tenho 25 anos e sou do Rio de Janeiro. Cursando Sistema de Informação pela Femass. Atualmente, sou aluno da DNC do curso Cietista de Dados. Sou apaixonado por tecnologia e nas horas vagas compartilho um pouco do meu conhecimento em finança através do meu canal no YouTube "[ssinvesting](https://www.youtube.com/@ssinvesting_)".
-
-<p align="left">
-    <a href="https://www.youtube.com/@ssinvesting_">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCWt54xmXcTTqw9nnLQS2vvA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@ssinvesting_">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCWt54xmXcTTqw9nnLQS2vvA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Samuel-SSantos?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Samuel-SSantos?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Samuel-SSantos?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Samuel-SSantos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Sou apaixonado por tecnologia, dados e resolução de problemas. Atualmente curso **Sistema de Informação (FEMASS)** e **Ciência de Dados (DNC)**, com foco em evoluir para nível sênior nas duas áreas.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🧠 Sobre mim
 
-<img 
-    align="left" 
-    alt="C"
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg"
-  />
-          
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="VScode"
-    title="VScode" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
- 
-<br/>
-<br/>
+- 📍 Rio de Janeiro - Brasil  
+- 🎓 Formação em andamento em Sistemas de Informação  
+- 📊 Especialização em Ciência de Dados   
+- 🚀 Transição estratégica para tecnologia e dados  
+
+💡 Combino pensamento analítico com experiência prática para transformar dados em decisões.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### 📊 Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
+
+### 💻 Desenvolvimento
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+### 📈 Dados & BI
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge)
+
+---
+
+## 📂 Projetos em Destaque
+
+### 🔹 📊 Análise de Dados
+- Exploração e limpeza de dados reais
+- Visualizações e insights estratégicos
+
+### 🔹 🤖 Machine Learning
+- Modelos preditivos
+- Classificação e regressão
+
+### 🔹 ♻️ Aplicativo de Reciclagem
+- Projeto completo com modelo de negócio
+- Foco em impacto ambiental + tecnologia
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-SSantos&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-SSantos&layout=compact&theme=radical)
+
+---
+
+## 🎯 Objetivos
+
+- 🚀 Tornar-se Cientista de Dados Sênior  
+- 💻 Evoluir para Desenvolvedor Full Stack  
+- 📊 Trabalhar com projetos de alto impacto em dados  
+
+---
+
+## 📬 Contato
+
+- 📧 Email: samueel.ssilva@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/samuel-s-bb20b611b    
+
+---
+
+⭐ Se curtir meu perfil, deixa uma estrela nos repositórios!
