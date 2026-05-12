@@ -52,14 +52,6 @@ Sou apaixonado por tecnologia, dados e resolução de problemas. Atualmente curs
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-SSantos&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-SSantos&layout=compact&theme=radical)
-
----
-
 ## 🎯 Objetivos
 
 - 🚀 Tornar-se Cientista de Dados Sênior  
